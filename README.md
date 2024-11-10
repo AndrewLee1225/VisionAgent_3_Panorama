@@ -123,7 +123,7 @@ This updated version includes several improvements to enhance user experience an
 ## How to Use
 1. **Run the Application**:
    ```sh
-   python panorama_app.py
+   python cva3.py
    ```
 2. **Collect Video Frames**:
    - Click **Collect Video** to start capturing frames from your webcam.
