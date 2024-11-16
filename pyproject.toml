@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "panorama-video-maker"
+version = "0.1.0"
+description = "A Python application for creating panoramas from video frames using OpenCV and PyQt5."
+authors = ["AndrewLee <lyandrew1225@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+opencv-python = "^4.5.5"
+pyqt5 = "^5.15.6"
+numpy = "^1.21.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
